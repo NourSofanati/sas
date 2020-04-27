@@ -182,3 +182,14 @@ nav a {
         clip-path: ellipse(1400px 100% at bottom center);
     }
 }
+
+#fb-button{
+    position: fixed;
+    right: 15px;
+    bottom: 5px;
+    z-index: 10;
+}
+#fb-button img,#fb-button{
+    width: 70px;
+    height: 70px;
+}
